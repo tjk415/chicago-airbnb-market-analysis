@@ -1,3 +1,6 @@
+# Retail Sales Performance Tracker
+**Author:** Thomas Kirvin
+
 # Chicago Airbnb Market Analysis
 
 Analyzed 8,500+ Chicago Airbnb listings using SQL to identify 
