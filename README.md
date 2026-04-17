@@ -17,6 +17,4 @@ the best short-term rental investment opportunities.
 Python, SQL (SQLite), pandas, matplotlib
 
 ## Data
-Download the data from [Inside Airbnb](http://insideairbnb.com/get-the-data) 
-— scroll to Chicago and download listings.csv.gz and reviews.csv.gz. 
-Place them in the same directory as the notebook.
+Downloaded from the data from [Inside Airbnb](http://insideairbnb.com/get-the-data) 
